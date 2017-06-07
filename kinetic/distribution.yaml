@@ -4446,7 +4446,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/ros-gbp/opencv3-release.git
-      version: 3.2.0-5
+      version: 3.2.0-4
     status: maintained
   opencv_apps:
     doc:
@@ -5558,7 +5558,7 @@ repositories:
       tags:
         release: release/kinetic/{package}/{version}
       url: https://github.com/ROBOTIS-GIT-release/ROBOTIS-Framework-release.git
-      version: 0.2.3-0
+      version: 0.2.4-0
     source:
       type: git
       url: https://github.com/ROBOTIS-GIT/ROBOTIS-Framework.git
@@ -5777,21 +5777,6 @@ repositories:
       url: https://github.com/robotics-in-concert/rocon_tools.git
       version: release/0.3-kinetic
     status: developed
-  rodi_robot:
-    doc:
-      type: git
-      url: https://github.com/benjayah/rodi_robot.git
-      version: master
-    release:
-      tags:
-        release: release/kinetic/{package}/{version}
-      url: https://github.com/benjayah/rodi_robot-release.git
-      version: 0.0.1-0
-    source:
-      type: git
-      url: https://github.com/benjayah/rodi_robot.git
-      version: master
-    status: maintained
   romeo_robot:
     doc:
       type: git

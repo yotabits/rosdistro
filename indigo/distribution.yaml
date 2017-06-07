@@ -8160,7 +8160,7 @@ repositories:
       tags:
         release: release/indigo/{package}/{version}
       url: https://github.com/ros-gbp/opencv3-release.git
-      version: 3.1.0-2
+      version: 3.1.0-1
     status: maintained
   opencv_apps:
     doc:
@@ -9557,6 +9557,13 @@ repositories:
       url: https://github.com/andreasBihlmaier/pysdf.git
       version: master
     status: developed
+  python-pathtools:
+    release:
+      tags:
+        release: release/indigo/{package}/{version}
+      url: https://github.com/yotabits/python-pathtools-release.git
+      version: 0.1.2-0
+    status: maintained
   python_ethernet_rmp:
     doc:
       type: git
@@ -10468,7 +10475,7 @@ repositories:
       tags:
         release: release/indigo/{package}/{version}
       url: https://github.com/cra-ros-pkg/robot_localization-release.git
-      version: 2.3.1-0
+      version: 2.3.2-0
     source:
       test_pull_requests: true
       type: git
